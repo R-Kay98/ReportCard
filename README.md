@@ -9,4 +9,4 @@ CSV file parser that reads the following four files and compiles the information
 ## Getting Started
 
 * Run the app script in the ReportCard directory with all four file paths, plus an output listed as arguments.
-`python app.py <pathToCourses>.csv <pathToStudents>.csv <pathToTests>.csv <pathToMarks>.csv <pathToOutput>.json`
+* `python app.py <pathToCourses>.csv <pathToStudents>.csv <pathToTests>.csv <pathToMarks>.csv <pathToOutput>.json`
